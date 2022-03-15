@@ -6,4 +6,6 @@ header{
 #start{
     background-color: #1abc9c;
 }
-
+.col-8 p{
+    text-transform: uppercase;
+}
