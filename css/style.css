@@ -1,4 +1,4 @@
-header{
+header, .color-footer-2{
     height: 90px;
     background-color: #2c3e50;
 }
@@ -8,5 +8,9 @@ header{
 }
 .col-8 p, .col-2 p{
     text-transform: uppercase;
+}
+
+.color-footer{
+    background-color: #3a546d;
 }
 
