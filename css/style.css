@@ -109,3 +109,8 @@ section{
 .fa-facebook-f{
     width: 50px;
 }
+
+
+.border-bottom{
+    border-bottom: 1px solid black;
+}
