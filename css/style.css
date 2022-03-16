@@ -50,15 +50,16 @@ p{
     display: none;
 }
 .cs-star-wrapper{
-    max-width: 400px;
-    min-width: 100%;
-    margin: 30px 0;
+    font-size: 40px;
+}
+.cs-star-wrapper-cs-dark{
+    font-size: 40px;
 }
 .cs-star-wrapper:before, 
 .cs-star-wrapper:after{
     content: '';
     display: inline-block;
-    width: 15%;
+    width: 10%;
     height: 4px;
     border-radius: 2px;
     background-color: white;
