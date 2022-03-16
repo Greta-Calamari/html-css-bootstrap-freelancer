@@ -1,6 +1,13 @@
-header, .color-footer-2{
-    height: 90px;
+header{
+    
     background-color: #2c3e50;
+    
+}
+
+#home-header .navbar-brand .navbar-light,
+{
+  color: white;
+  
 }
 .cs-bg-green{
     background-color: #1abc9c;
@@ -81,7 +88,7 @@ p{
 
 
 
-main, footer{
+main{
     color: white;
     text-align: center;
 }
@@ -92,3 +99,13 @@ section{
     padding: 60px 0;
 }
 
+
+#info{
+    background-color: #2c3e50;
+}
+.color-footer-2{
+
+}
+.fa-facebook-f{
+    width: 50px;
+}
