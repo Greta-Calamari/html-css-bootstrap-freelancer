@@ -78,7 +78,7 @@ p{
 .cs-star-wrapper-cs-dark:after{
     content: '';
     display: inline-block;
-    width: 15%;
+    width: 10%;
     height: 4px;
     border-radius: 2px;
     background-color:#2c3e50;
